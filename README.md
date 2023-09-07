@@ -5,7 +5,7 @@
 + [簡介](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [練習專區]()
-+ [電子教材課本]()
++ [電子教材課本](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E9%9B%BB%E5%AD%90%E6%95%99%E6%9D%90%E8%AA%B2%E6%9C%AC)
 + [課堂PPT](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 
 # 簡介
@@ -28,6 +28,7 @@
 ***
 # 練習專區
 # 電子教材課本
++ [電子課本](https://moodle3.ntnu.edu.tw/pluginfile.php/1109117/mod_resource/content/1/Database%20Systems%20%20Design%2C%20Implementation%20%20Management%2013th.pdf)
 # 課堂PPT
 + [第一週](https://moodle3.ntnu.edu.tw/pluginfile.php/1109126/mod_resource/content/1/1-Introduction.pdf)
 + [第二週](https://moodle3.ntnu.edu.tw/pluginfile.php/1109133/mod_resource/content/1/2-Data%20Modeling.pdf)
