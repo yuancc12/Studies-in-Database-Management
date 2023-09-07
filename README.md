@@ -1,5 +1,4 @@
 # Studies-in-Database-Management
-# 資料庫管理研究
 # 112-1 資料庫管理研究
 # 目錄
 + [簡介](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
