@@ -5,9 +5,8 @@
 + [簡介](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [練習專區]()
-+ [作業專區]()
-+ [專題演講]()
-+ [課堂PPT]()
++ [電子教材課本]()
++ [課堂PPT](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 
 # 簡介
 **授課教師:謝建成教授**
@@ -28,7 +27,7 @@
 **相關技能**：Python，WordPress(UI),Voxedit，Node.js,Java，Arduino，C++
 ***
 # 練習專區
-# 作業專區
+# 電子教材課本
 # 課堂PPT
 + [第一週](https://moodle3.ntnu.edu.tw/pluginfile.php/1109126/mod_resource/content/1/1-Introduction.pdf)
-+ [第二週](https://drive.google.com/file/d/1SpT2jlj6x0iEFZPaeY2S0OD9iEF34ON6/view)
++ [第二週](https://moodle3.ntnu.edu.tw/pluginfile.php/1109133/mod_resource/content/1/2-Data%20Modeling.pdf)
