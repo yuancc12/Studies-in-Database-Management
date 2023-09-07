@@ -3,7 +3,7 @@
 # 112-1 資料庫管理研究
 # 目錄
 + [簡介](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
-+ [自我介紹](https://github.com/yuancc12/JavaScript/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
++ [自我介紹](https://github.com/yuancc12/Studies-in-Database-Management/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
 + [練習專區]()
 + [作業專區]()
 + [專題演講]()
