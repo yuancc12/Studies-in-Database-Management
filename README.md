@@ -31,4 +31,8 @@
 # 課堂PPT
 + [第一週](https://moodle3.ntnu.edu.tw/pluginfile.php/1109126/mod_resource/content/1/1-Introduction.pdf)
 + [第二週](https://moodle3.ntnu.edu.tw/pluginfile.php/1109133/mod_resource/content/1/2-Data%20Modeling.pdf)
-+ [第三週](https://moodle3.ntnu.edu.tw/pluginfile.php/1128144/mod_resource/content/1/3%20Relational%20Model.pdf)
++ [第三週，第四週](https://moodle3.ntnu.edu.tw/pluginfile.php/1128144/mod_resource/content/1/3%20Relational%20Model.pdf)
++ [第五週](https://moodle3.ntnu.edu.tw/pluginfile.php/1143716/mod_resource/content/3/4%20ER%20Model.pdf)
++ [第七週，第八週](https://moodle3.ntnu.edu.tw/pluginfile.php/1148142/mod_resource/content/1/5%20Normalization.pdf)
++ [第十一週](https://moodle3.ntnu.edu.tw/pluginfile.php/1174702/mod_resource/content/1/%E8%B3%87%E6%96%99%E5%BA%AB%E7%AE%A1%E7%90%86%E7%A0%94%E7%A9%B6_v_20231113.pdf)
++ [第十二週](https://moodle3.ntnu.edu.tw/pluginfile.php/1174931/mod_resource/content/1/%E8%B3%87%E6%96%99%E5%BA%AB%E7%AE%A1%E7%90%86%E7%A0%94%E7%A9%B6_v_20231127.pdf)
